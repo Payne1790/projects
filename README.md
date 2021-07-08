@@ -1,3 +1,3 @@
 # projects
-tinddog- front end
+tinddog- (front end)
 a good dog finder
